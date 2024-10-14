@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwork.Business", "SocialNetwork.Business\SocialNetwork.Business.csproj", "{BE43109A-1103-422B-A63E-63E42C4FFD4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialNetwork.Business", "SocialNetwork.Business\SocialNetwork.Business.csproj", "{BE43109A-1103-422B-A63E-63E42C4FFD4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwok.Core", "SocialNetwok.Core\SocialNetwok.Core.csproj", "{EA82F259-6EDA-4DD6-B64C-841F9CC70BC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialNetwok.Core", "SocialNetwok.Core\SocialNetwok.Core.csproj", "{EA82F259-6EDA-4DD6-B64C-841F9CC70BC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwok.DataAccess", "SocialNetwok.DataAccess\SocialNetwok.DataAccess.csproj", "{48A28B53-3EF5-4773-A95D-90B7E131628F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialNetwok.DataAccess", "SocialNetwok.DataAccess\SocialNetwok.DataAccess.csproj", "{48A28B53-3EF5-4773-A95D-90B7E131628F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwok.Entities", "SocialNetwok.Entities\SocialNetwok.Entities.csproj", "{A25A340A-CC15-48C8-8BA4-33E3A426E080}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialNetwok.Entities", "SocialNetwok.Entities\SocialNetwok.Entities.csproj", "{A25A340A-CC15-48C8-8BA4-33E3A426E080}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwok.WebUI", "SocialNetwok.WebUI\SocialNetwok.WebUI.csproj", "{EDE7B015-D93B-45D8-9DFE-9EC8A860EE65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialNetwork.WebUI", "SocialNetwork.WebUI\SocialNetwork.WebUI.csproj", "{336614BB-2DC7-4061-8535-7D9CD595633A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{A25A340A-CC15-48C8-8BA4-33E3A426E080}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A25A340A-CC15-48C8-8BA4-33E3A426E080}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A25A340A-CC15-48C8-8BA4-33E3A426E080}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EDE7B015-D93B-45D8-9DFE-9EC8A860EE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EDE7B015-D93B-45D8-9DFE-9EC8A860EE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EDE7B015-D93B-45D8-9DFE-9EC8A860EE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EDE7B015-D93B-45D8-9DFE-9EC8A860EE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336614BB-2DC7-4061-8535-7D9CD595633A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336614BB-2DC7-4061-8535-7D9CD595633A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336614BB-2DC7-4061-8535-7D9CD595633A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336614BB-2DC7-4061-8535-7D9CD595633A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
