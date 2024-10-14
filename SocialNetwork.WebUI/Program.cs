@@ -41,13 +41,6 @@ builder.Services.AddIdentity<CustomIdentityUser, CustomIdentityRole>()
 
 builder.Services.AddHttpContextAccessor();
 
-//builder.Services.AddScoped<INotificationsDAL, EFNotificationDAL>();
-//builder.Services.AddScoped<INotificationService, NotificationService>();
-//builder.Services.AddScoped<IUserDAL, EFUserDAL>();
-//builder.Services.AddScoped<IUserService, UserService>();
-//builder.Services.AddScoped<IPostDAL, EFPostDAL>();
-//builder.Services.AddScoped<IPostService, PostService>();
-
 builder.Services.AddScoped<IChatDAL, EFChatDAL>();
 builder.Services.AddScoped<IChatService, ChatService>();
 
